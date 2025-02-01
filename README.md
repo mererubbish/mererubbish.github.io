@@ -6,11 +6,11 @@
         color: white;
         }
       @font-face {
-        font-family: "Some font";
-        src: url("css/fonts/some-font.eot");
-        src: url("css/fonts/some-font.woff") format("woff"),
-        url("css/fonts/some-font.otf") format("opentype"),
-        url("css/fonts/some-font.svg#filename") format("svg");
+        font-family: "vcr_osd_mono";
+        src: url("css/fonts/vcr_osd_mono1.001.eot");
+        src: url("css/fonts/vcr_osd_mono1.001.woff") format("woff"),
+        url("css/fonts/vcr_osd_mono1.001") format("opentype"),
+        url("css/fonts/vcr_osd_mono1.001.svg#filename") format("svg");
         }
     </style>
   </head>
